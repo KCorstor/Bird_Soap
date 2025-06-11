@@ -1,4 +1,5 @@
-boto3==1.38.33
-opencv-python==4.11.0.86
-python-dotenv==1.1.0
-numpy>=1.21.2 
+# Python 3.9+ required
+ultralytics==8.0.196; python_version >= '3.9'
+Pillow==10.0.0; python_version >= '3.9'
+numpy==1.24.3; python_version >= '3.9'
+boto3==1.34.34; python_version >= '3.9' 

@@ -1,0 +1,6 @@
+names:
+- bird
+nc: 1
+path: /Users/kevincorstorphine/Desktop/Bird_Soap/bird_dataset
+train: images/train
+val: images/val
