@@ -1,3 +1,6 @@
+# Bird Soap - This script is used to capture frames from a webcam and upload them to an AWS S3 bucket.
+
+
 import cv2
 import boto3
 import os
