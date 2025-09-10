@@ -68,7 +68,7 @@ python scan_bird_pictures.py  # Process existing photos in Bird_Pictures folder
 
 ## Technical Details
 
-- **Model**: YOLOv8n (nano) for fast inference
+- **Model**: YOLOv8n (nano) for fast inference and size
 - **Detection Class**: COCO dataset class 14 (bird)
 - **Confidence Threshold**: 50% minimum for valid detections
 - **Image Formats**: Supports JPG, PNG, BMP, HEIC
