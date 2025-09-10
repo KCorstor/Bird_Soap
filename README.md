@@ -76,7 +76,7 @@ python scan_bird_pictures.py  # Process existing photos in Bird_Pictures folder
 
 ## Custom Model Training
 
-The project includes a custom fine-tuned model trained on bird feeder images: (WIP)
+The project includes a (work in progress) custom fine-tuned model trained on bird feeder images:
 - Training data in `bird_dataset/`
 - Model weights in `bird_model/weights/`
 - Training notebook: `yolo_finetuning.ipynb`
